@@ -1,0 +1,19 @@
+C:\Users\User\source\repos\ejednevnichek !\bin\Debug\ejednevnichek !.exe.config
+C:\Users\User\source\repos\ejednevnichek !\bin\Debug\ejednevnichek !.exe
+C:\Users\User\source\repos\ejednevnichek !\bin\Debug\ejednevnichek !.pdb
+C:\Users\User\source\repos\ejednevnichek !\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\ejednevnichek !\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\ejednevnichek !\obj\Debug\ejednevnichek !.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ejednevnichek !\obj\Debug\ejednevnichek !.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ejednevnichek !\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\ejednevnichek !\obj\Debug\App.g.cs
+C:\Users\User\source\repos\ejednevnichek !\obj\Debug\ejednevnichek !_MarkupCompile.cache
+C:\Users\User\source\repos\ejednevnichek !\obj\Debug\ejednevnichek !_MarkupCompile.lref
+C:\Users\User\source\repos\ejednevnichek !\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\ejednevnichek !\obj\Debug\ejednevnichek !.g.resources
+C:\Users\User\source\repos\ejednevnichek !\obj\Debug\ejednevnichek__.Properties.Resources.resources
+C:\Users\User\source\repos\ejednevnichek !\obj\Debug\ejednevnichek !.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ejednevnichek !\obj\Debug\ejednevnichek !.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ejednevnichek !\obj\Debug\ejednevnichek !.csproj.CopyComplete
+C:\Users\User\source\repos\ejednevnichek !\obj\Debug\ejednevnichek !.exe
+C:\Users\User\source\repos\ejednevnichek !\obj\Debug\ejednevnichek !.pdb
